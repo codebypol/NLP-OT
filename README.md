@@ -4,7 +4,7 @@ This repository contains the work done during a research project by Paul Mortame
 
 The main.ipynb notebook contains the final report and the code that we used to get our results and the changes that we tested.
 
-Full report available [here](assets/report.pdf)
+Full report available [here](assets/report.pdf) (in French only).
 
 ## Abstract
 
