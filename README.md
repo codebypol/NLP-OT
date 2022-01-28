@@ -20,7 +20,3 @@ There are few precise studies on the use of Optimal Transport in word alignment 
     - Entropic regularization
     - A deeper analysis of the cost matrix
 - Conclusion
-
-## Full report (French only)
-
-<iframe src="/assets/report.pdf" height="1100" width="100%"></iframe>
