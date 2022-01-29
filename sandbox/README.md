@@ -1,3 +1,13 @@
+## analyse_cost.ipynb
+
+Notebook to visualize how distributed the cost matrix coefficients using the baseline method. This led to work on transformations of the distances first experimented in the ***dist_transformation.ipynb*** in this same folder.
+
+## analyse_reg.ipynb
+
+Notebook to visualize the impact of the regularisation of the cost matrix for the Sinkhorn algorithm.
+
+## dist_transformation.ipynb
+
 List of every transformations we thought about. They can be divided into 3 categories : 
 
 * Cosine transformations : simple transformations of the cosine similarity.
