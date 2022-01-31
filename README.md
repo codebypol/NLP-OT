@@ -2,9 +2,11 @@
 
 This repository contains the work done during a research project by Paul Mortamet and Adrien Lagesse, supervized by Dr. François Yvon.
 
-The main.ipynb notebook contains the final report and the code that we used to get our results and the changes that we tested.
+The ***main.ipynb*** notebook contains the final report and the code that we used to get our results and the changes that we tested.
 
 Full report available [here](assets/report.pdf) (in French only).
+
+Oral presentation can be found [here](assets/presentation.pdf), also only available in French.
 
 ## Abstract
 
