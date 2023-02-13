@@ -1,6 +1,6 @@
 # NLP-OT
 
-This repository contains the work done during a research project by Paul Mortamet and Adrien Lagesse, supervized by Dr. François Yvon.
+This repository contains the work done during a research project.
 
 The ***main.ipynb*** notebook contains the final report and the code that we used to get our results and the changes that we tested.
 
